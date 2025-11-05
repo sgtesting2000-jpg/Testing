@@ -1,0 +1,11 @@
+{
+  "type": "service_account",
+  "project_id": "fake-project-123",
+  "private_key_id": "abcdef1234567890abcdef1234567890abcdef12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANB...FAKE_PRIVATE_KEY...IDAQAB\n-----END PRIVATE KEY-----\n",
+  "client_email": "fake-sa@fake-project-123.iam.gserviceaccount.com",
+  "client_id": "12345678901234567890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
+
